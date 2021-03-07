@@ -61,5 +61,9 @@
       "pre-commit": "npm test",
       "pre-push": "npm test"
     }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
   }
 }
